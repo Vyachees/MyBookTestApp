@@ -1,0 +1,9 @@
+2023-01-05 13:53:24.955  WARN 7316 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-05 14:09:46.831  WARN 17084 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-05 14:09:47.819 ERROR 17084 --- [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : Последовательность "HIBERNATE_SEQUENCE" не найдена
+Sequence "HIBERNATE_SEQUENCE" not found; SQL statement:
+call next value for hibernate_sequence [90036-214]
+2023-01-05 14:11:55.402  WARN 6672 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-05 14:11:56.411 ERROR 6672 --- [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : Последовательность "HIBERNATE_SEQUENCE" не найдена
+Sequence "HIBERNATE_SEQUENCE" not found; SQL statement:
+call next value for hibernate_sequence [90036-214]
